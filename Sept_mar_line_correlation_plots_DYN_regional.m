@@ -21,7 +21,7 @@ function [] = Sept_mar_line_correlation_plots_DYN_regional()
    subplot(2,2,1)
    nhmonth = 3;
    nhx = xlabel_2;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'_tmp.mat'];
+   fname = ['DYN_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
@@ -37,7 +37,7 @@ function [] = Sept_mar_line_correlation_plots_DYN_regional()
    subplot(2,2,2)
    nhmonth = 9;
    nhx = xlabel_1;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'_tmp.mat'];
+   fname = ['DYN_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
@@ -50,7 +50,7 @@ function [] = Sept_mar_line_correlation_plots_DYN_regional()
    subplot(2,2,3)
    nhmonth = 3;
    nhx = xlabel_2;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'_tmp.mat'];
+   fname = ['DYN_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
@@ -62,7 +62,7 @@ function [] = Sept_mar_line_correlation_plots_DYN_regional()
    subplot(2,2,4)
    nhmonth = 9;
    nhx = xlabel_1;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'_tmp.mat'];
+   fname = ['DYN_sept_nh_b.e11.B1850C5CN._',mask_name,'_',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
