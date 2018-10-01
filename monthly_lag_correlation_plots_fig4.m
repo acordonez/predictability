@@ -1,4 +1,4 @@
-% monthly_lag_correlation_plots_fig3.m
+% monthly_lag_correlation_plots_fig4.m
 %
 % Calculates monthly lag correlations for sea ice area and sea ice volume in the
 % CESM large ensemble control runs. This analysis is done for different
