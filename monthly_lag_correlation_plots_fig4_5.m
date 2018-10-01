@@ -7,8 +7,9 @@
 % This script can take an hour or more to run depending on the 
 % number of regions and variables being plotted.
 %
-% See figure 4 in "Processes controlling Arctic and Antarctic sea ice predictability 
-% in the Community Earth System Model" by Ordonez, Bitz, and Blanchard-Wrigglesworth (in press).
+% See figures 4 & 5 in "Processes controlling Arctic and Antarctic sea ice 
+% predictability in the Community Earth System Model"  
+% by Ordonez, Bitz, and Blanchard-Wrigglesworth (in press).
 %
 % Ana Ordonez 10/2018
 
