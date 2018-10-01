@@ -1,4 +1,4 @@
-% ice_extent_regional.m
+% ice_extent_regional_fig2.m
 % 
 % Plots the ice extent in CESM and observations for regions
 % in the Arctic and Antarctic. 

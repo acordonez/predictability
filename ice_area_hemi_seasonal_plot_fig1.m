@@ -1,4 +1,4 @@
-% ice_area_hemi_seasonal_plot.m
+% ice_area_hemi_seasonal_plot_fig1.m
 %
 % Makes monthly mean plots for ice extent and total volume
 % for both hemispheres
