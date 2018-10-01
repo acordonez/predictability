@@ -1,4 +1,4 @@
-% September_lead_correlations_CESM
+% September_lead_correlations_CESM_fig6.m
 %
 % Calculates Pearson's R correlations for Arctic 
 % and Antarctic sea ice in DYN or SOM. Loops over
