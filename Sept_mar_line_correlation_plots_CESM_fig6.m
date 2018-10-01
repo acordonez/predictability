@@ -1,4 +1,4 @@
-function [] = Sept_mar_line_correlation_plots_CESM()
+function [] = Sept_mar_line_correlation_plots_CESM_fig6()
 % Sept_mar_line_correlation_plots_LE()
 % 
 % plots correlations generated in September_lead_correlations_CESM.m
