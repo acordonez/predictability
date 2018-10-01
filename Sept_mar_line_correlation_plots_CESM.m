@@ -20,7 +20,7 @@ figure (1)
    subplot(2,2,1)
    nhmonth = 3;
    nhx = xlabel_2;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',num2str(nhmonth),'.mat'];
+   fname = ['CESM_sept_nh_b.e11.B1850C5CN._',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
@@ -30,7 +30,7 @@ figure (1)
    subplot(2,2,2)
    shmonth = 9;
    shx = xlabel_1;
-   fname = ['LE_sept_sh_b.e11.B1850C5CN._',num2str(shmonth),'.mat'];
+   fname = ['CESM_sept_sh_b.e11.B1850C5CN._',num2str(shmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',shx)
@@ -40,7 +40,7 @@ figure (1)
    subplot(2,2,3)
    nhmonth = 9;
    nhx = xlabel_1;
-   fname = ['LE_sept_nh_b.e11.B1850C5CN._',num2str(nhmonth),'.mat'];
+   fname = ['CESM_sept_nh_b.e11.B1850C5CN._',num2str(nhmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',nhx)
@@ -51,7 +51,7 @@ figure (1)
    subplot(2,2,4)
    shmonth = 3;
    shx = xlabel_2;
-   fname = ['LE_sept_sh_b.e11.B1850C5CN._',num2str(shmonth),'.mat'];
+   fname = ['CESM_sept_sh_b.e11.B1850C5CN._',num2str(shmonth),'.mat'];
    load(fname)
    lines(R,res);
    set(gca,'xtick',[0:12],'xticklabel',shx)
