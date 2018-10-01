@@ -1,4 +1,4 @@
-function [] = Sept_mar_line_correlation_plots_DYN_regional()
+function [] = Sept_mar_line_correlation_plots_DYN_regional_fig7()
    % Sept_mar_line_correlation_plots_LE()
    % 
    % plots correlations generated in September_lead_correlations_DYN_regional.m

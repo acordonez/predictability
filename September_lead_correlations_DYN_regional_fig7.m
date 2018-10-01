@@ -1,4 +1,4 @@
-% September_lead_correlations_DYN_regional.m
+% September_lead_correlations_DYN_regional_fig7.m
 %
 % Calculates Pearson's R correlations for Arctic 
 % Atlantic or Pacific regions in DYN or SOM.
