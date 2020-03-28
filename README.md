@@ -25,4 +25,4 @@ these are only briefly discussed in our paper.
 
 These scripts were written and run on the NCAR Yellowstone and Cheyenne computers / Geyser cluster.
 
-For questions and comments, please contact Ana Ordonez at ordonana@uw.edu
+For questions and comments, please contact Ana Ordonez at anaordonez@comcast.net
