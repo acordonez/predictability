@@ -11,7 +11,7 @@ these are only briefly discussed in our paper.
 
 These scripts were written and run on the NCAR Yellowstone and Cheyenne computers / Geyser cluster.
 
-For questions and comments, please contact Ana Ordonez at anaordonez@comcast.net
+For questions and comments, please contact Ana Ordonez
 
 ## Scripts for Figures
 Fig. 1: ice_area_hemi_seasonal_plot_fig1.m  
