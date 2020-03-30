@@ -1,5 +1,5 @@
 # predictability
-Scripts for the paper [Processes controlling Arctic and Antarctic sea ice predictability in the Community Earth System Model](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0348.1)
+Scripts for the paper [Processes Controlling Arctic and Antarctic Sea Ice Predictability in the Community Earth System Model](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0348.1)
 
 These scripts contain the analysis Matlab code used as the basis of this paper. 
 
