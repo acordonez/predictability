@@ -14,13 +14,13 @@ These scripts were written and run on the NCAR Yellowstone and Cheyenne computer
 For questions and comments, please contact Ana Ordonez at anaordonez@comcast.net
 
 ## H2 Scripts for Figures
-Fig. 1: ice_area_hemi_seasonal_plot_fig1.m
-Fig. 2: ice_extent_regional_fig2.m
-Fig. 3: lag_correlations_LENS_modern.m
-Fig. 4: monthly_lag_correlation_plots_fig4_5.m
-Fig. 5: monthly_lag_correlation_plots_fig4_5.m
-Fig. 6: September_lead_correlations_CESM_fig6.m, Sept_mar_line_correlation_plots_CESM_fig6.m 
-Fig. 7: September_lead_correlations_DYN_regional_fig7.m, Sept_mar_line_correlation_plots_DYN_regional_fig7.m
+Fig. 1: ice_area_hemi_seasonal_plot_fig1.m  
+Fig. 2: ice_extent_regional_fig2.m  
+Fig. 3: lag_correlations_LENS_modern.m  
+Fig. 4: monthly_lag_correlation_plots_fig4_5.m  
+Fig. 5: monthly_lag_correlation_plots_fig4_5.m  
+Fig. 6: September_lead_correlations_CESM_fig6.m, Sept_mar_line_correlation_plots_CESM_fig6.m  
+Fig. 7: September_lead_correlations_DYN_regional_fig7.m, Sept_mar_line_correlation_plots_DYN_regional_fig7.m  
 
 ## H2 Other functions to note
 'grid1togrid2.m' is a regridding script for CESM output. 
